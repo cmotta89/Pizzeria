@@ -19,5 +19,4 @@ public class Cliente extends Thread {
         p.ordinaPizze(currentThread().getPriority());
 
     }
-
 }
